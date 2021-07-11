@@ -1,0 +1,24 @@
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\bin\Debug\net5.0\LogTesting app.exe
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\bin\Debug\net5.0\LogTesting app.deps.json
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\bin\Debug\net5.0\LogTesting app.runtimeconfig.json
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\bin\Debug\net5.0\LogTesting app.runtimeconfig.dev.json
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\bin\Debug\net5.0\LogTesting app.dll
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\bin\Debug\net5.0\ref\LogTesting app.dll
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\bin\Debug\net5.0\LogTesting app.pdb
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\obj\Debug\net5.0\LogTesting app.csproj.AssemblyReference.cache
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\obj\Debug\net5.0\LogTesting app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\obj\Debug\net5.0\LogTesting app.AssemblyInfoInputs.cache
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\obj\Debug\net5.0\LogTesting app.AssemblyInfo.cs
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\obj\Debug\net5.0\LogTesting app.csproj.CoreCompileInputs.cache
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\obj\Debug\net5.0\LogTesting app.dll
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\obj\Debug\net5.0\ref\LogTesting app.dll
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\obj\Debug\net5.0\LogTesting app.pdb
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\obj\Debug\net5.0\LogTesting app.genruntimeconfig.cache
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\bin\Debug\net5.0\log4net.dll
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\obj\Debug\net5.0\LogTesting app.csproj.CopyComplete
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\bin\Debug\net5.0\Program.cs
+C:\Users\man5\source\repos\LogTesting app\LogTesting app\bin\Debug\net5.0\log4net.config

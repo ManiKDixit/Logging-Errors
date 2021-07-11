@@ -1,0 +1,5 @@
+2021-07-11 20:14:53,323 [1] INFO LogTesting_app.Logging - ----------------------------------------
+2021-07-11 20:14:53,372 [1] INFO LogTesting_app.Logging - Date: 7/11/2021 8:14:53 PM
+2021-07-11 20:14:53,373 [1] INFO LogTesting_app.Logging - System.IndexOutOfRangeException
+2021-07-11 20:14:53,375 [1] INFO LogTesting_app.Logging - Message :Index was outside the bounds of the array.
+2021-07-11 20:14:53,431 [1] INFO LogTesting_app.Logging - StackTrace :   at LogTesting_app.Program.Main(String[] args) in C:\Users\man5\source\repos\LogTesting app\LogTesting app\Program.cs:line 16
